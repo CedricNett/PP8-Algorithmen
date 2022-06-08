@@ -6,7 +6,7 @@ int main(){
 
 	int minimum = a[0];
 
-	for(int i=0; a[i]!=0; i++)	{
+	for(int i=0; i<13; i++)	{
 		if (a[i] < minimum) minimum = a[i];
 		}
 
